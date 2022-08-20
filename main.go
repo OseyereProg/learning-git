@@ -1,1 +1,5 @@
-function()
+Package main
+
+function(){
+
+}
